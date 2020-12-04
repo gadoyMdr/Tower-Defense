@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 405fb3885e2fe7b41abef51f1ee657d1, type: 3}
+  m_Name: TB-Wave3
+  m_EditorClassIdentifier: 
+  randomEnemies:
+    set:
+    - gameObject: {fileID: 540974862553838889, guid: 50b60a70288d2474eb76127721f7b550, type: 3}
+      percentage: 53.699997
+    - gameObject: {fileID: 540974862553838889, guid: 2d496cb9fa3847b4795d09b8aa8a8f94, type: 3}
+      percentage: 23.2
+    - gameObject: {fileID: 540974862553838889, guid: 97cc1405a54ebbf4cb8ad84a2024b187, type: 3}
+      percentage: 23.1
+  spawnTime: 0.8
+  enemyCount: 18
